@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="3.0" method="upgrade" group="acymailing">
+	<name>AcyMailing - Replace</name>
+	<creationDate>Feb 2019</creationDate>
+	<version>1.0.0</version>
+	<author>Pat Crane</author>
+	<authorEmail>pcrane@121marketing.com</authorEmail>
+	<authorUrl>github.com/PCrane9</authorUrl>
+	<copyright>Copyright (C) 2019 - All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
+	<description>This plugin references ReReplacer to work in newsletters.</description>
+	<files>
+		<filename plugin="replace">replace.php</filename>
+		<filename>replace.xml</filename>
+		<filename>index.html</filename>
+	</files>
+
+</extension>
